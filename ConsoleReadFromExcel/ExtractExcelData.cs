@@ -41,7 +41,7 @@ namespace ConsoleReadFromExcel
 
                 //Wrtie down you script here
 
-                /*
+                
                 if (tabName == "Alternative Mutual Fund" || tabName == "Interval Funds")
                 {
                     string vchTicker = "";
@@ -90,7 +90,7 @@ namespace ConsoleReadFromExcel
                     }
 
                 }
-                */
+              
 
             }
             catch (Exception e)
